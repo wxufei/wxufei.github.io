@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wxufei.github.io</id>
     <title>Gridea</title>
-    <updated>2021-05-14T09:52:39.670Z</updated>
+    <updated>2021-05-15T08:14:02.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wxufei.github.io"/>
     <link rel="self" href="https://wxufei.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://wxufei.github.io/images/avatar.png</logo>
     <icon>https://wxufei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[个股逻辑跟踪记录]]></title>
+        <id>https://wxufei.github.io/post/ge-gu-luo-ji-gen-zong-ji-lu/</id>
+        <link href="https://wxufei.github.io/post/ge-gu-luo-ji-gen-zong-ji-lu/">
+        </link>
+        <updated>2021-05-15T08:06:23.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="新城控股非核心资产">新城控股（非核心资产）</h4>
+<p>2021-5-13</p>
+<blockquote>
+<p>地产开发分为两类：1.商业地产，2. 住宅地产。住宅地产是没投资价值的，因为企业拿地成本高，未来盈利和毛利进一步下滑。<br>
+新城控股逐渐从住宅开发企业，变为商业地产开发龙头，而商业地产 拿地基本是以政府招商引资的方式出让获得，所以成本非常低。</p>
+</blockquote>
+<ul>
+<li>合理估值：37-41</li>
+<li>公司的重点在于 吾悦广场，2020年底，公司已经开业100家吾悦广场，今年租金收入预计为85亿。乐观情况下，预计到2024年，公司将开业200家吾悦广场，预期收入200亿左右，净利润接近80亿。按照公用事业的25倍估值预计2000亿市值，加上届时150亿盈利水平的住宅开发业务，保守4倍估值，给予600亿，共2600亿市值。<strong>三年乐观有近2倍的预期回报</strong>。</li>
+</ul>
+<h4 id="坚朗五金">坚朗五金</h4>
+<p>2021-5-14</p>
+<blockquote>
+<p>可以重仓的股票</p>
+</blockquote>
+<ul>
+<li>合理估值：150</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wxufei.github.io/post/hello-gridea/</id>
